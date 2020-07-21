@@ -1,0 +1,10 @@
+.UserInput {
+	width: 80%;
+	outline: none;
+	border-radius: 0.5rem;
+	background: rgb(236, 129, 236);
+	font-size: 1rem;
+	padding: 0.5rem;
+	border: 1px dotted red;
+	margin: 10px auto;
+}
